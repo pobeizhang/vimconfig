@@ -1,7 +1,7 @@
 vim的插件NERDTree的安装
 1，在~/.vim中git clone 地址，将此文件下载到.vim文件夹中
 
-2，将.vimrc拷贝到/etc/vim中，改名为vimrc，替换以前的vimrc
+2，将.vimrc拷贝到/etc中，改名为vimrc，替换以前的vimrc
 
 3，将.vim文件夹中的所有文件及文件夹拷贝到~/.vim中
 
